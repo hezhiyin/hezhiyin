@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hezhiyin16, a college student.
+- 👋 Hi, I’m @hezhiyin, a college student.
 - 👀 I’m interested in learning Enghlish, tennis, photography.
 - 🌱 I’m currently learning Python and Javascript.
 - 💞️ I’m looking to collaborate on ...
